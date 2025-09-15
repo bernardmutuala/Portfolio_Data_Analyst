@@ -70,7 +70,7 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 ---
 
 ## 📬 Contact  
-- 🔗 [LinkedIn : Bernard Mutuala](https://www.linkedin.com/in/bernard-mutuala)  
+- 🔗 [LinkedIn : Bernard Mutuala](https://www.linkedin.com/in/bernard-mutuala-4335632a3)  
 - 🔗 [GitHub : bernardmutuala](https://github.com/bernardmutuala)  
 - 📧 Mail : bernardmutualankota@gmail.com  
 - 📞 Téléphone : +243 812 598 453 / +243 991 435 462  
