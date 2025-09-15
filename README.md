@@ -1,7 +1,7 @@
 # 📊 Portfolio d’Analyse de Données – Bernard MUTUALA Nkota  
 
 👋 Bienvenue sur mon portfolio de projets en **Data Analysis & Business Intelligence**.  
-Je suis **Analyste de données Junior**, passionné par la transformation de données brutes en **informations stratégiques** pour la prise de décision.  
+Je suis **Analyste de données**, passionné par la transformation de données brutes en **informations stratégiques** pour la prise de décision.  
 
 Mon objectif : démontrer mes compétences à travers des projets concrets, réalisés de A à Z, couvrant la collecte, le nettoyage, la modélisation, l’analyse et la visualisation des données.  
 
