@@ -1,0 +1,8 @@
+"universite_id","nom_universite","sigle_universite","adresse_universite","telephone_universite","email_universite"
+1,"Université de Kinshasa","UNIKIN","Kinshasa/Lemba","0811111111","contact@unikin.cd"
+2,"Université Pédagogique Nationale","UPN","Kinshasa/Ngaliema","0822222222","contact@upn.cd"
+3,"Institut Supérieur de Commerce","ISC","Kinshasa/Gombe","0833333333","contact@isc.cd"
+4,"Institut Supérieur d’Informatique, Programmation et Analyse","ISIPA","Kinshasa/Kasa-Vubu","0844444444","contact@isipa.cd"
+5,"Université Catholique du Congo","UCC","Kinshasa/Limete","0855555555","contact@ucc.cd"
+6,"Université Protestante au Congo","UPC","Kinshasa/Ngaliema","0866666666","contact@upc.cd"
+7,"Institut Supérieur des Techniques Médicales","ISTM","Kinshasa/Bandalungwa","0877777777","contact@istm.cd"

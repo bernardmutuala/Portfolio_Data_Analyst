@@ -1,0 +1,8 @@
+"type_frais_id","libelle_type_frais","description_frais"
+1,"Inscription","Frais d’inscription annuelle obligatoire"
+2,"Académique","Frais académiques annuels par étudiant"
+3,"Stage","Frais de stage obligatoire"
+4,"Bibliothèque","Frais d’accès à la bibliothèque"
+5,"Laboratoire","Frais de laboratoire et matériel"
+6,"Transport","Frais de transport universitaire"
+7,"Assurance","Assurance santé et accidents étudiants"
