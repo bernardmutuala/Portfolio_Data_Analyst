@@ -11,7 +11,7 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 ## 🚀 Projets réalisés  
 
 ### 🗄  Power BI 
-- **Analyse des frais académiques (Rawbank – Universités de Kinshasa)**  
+- **Analyse de paiement des frais académiques (Rawbank – Universités de Kinshasa)**  
   - Modélisation multidimensionnelle (Modèle en étoile)
   - 6 KPI calculés avec DAX
   - Des Visualisations créées (Cartes, Segments, graphiques, etc.)
