@@ -10,6 +10,15 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 
 ## 🚀 Projets réalisés  
 
+### 🗄  Power BI 
+- **Analyse des frais académiques (Rawbank – Universités de Kinshasa)**  
+  - Modélisation multidimensionnelle (Modèle en étoile)
+  - 6 KPI calculés avec DAX
+  - Des Visualisations créées (Cartes, Segments, graphiques, etc.)
+  - Observations et Recommandations formulées 
+  - Période analysée : Octobre 2024 – Juin 2025
+
+    
 ### 🗄 SQL (PostgreSQL)  
 - **Gestion des frais académiques (Rawbank – Universités de Kinshasa)**  
   - Base de données transactionnelle (PostgreSQL)  
