@@ -48,6 +48,11 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 ---
 
 ### 📑 Excel  
+
+- **Application VBA de gestion de ventes avec analyse en temps réel**  
+  - Dashboard interactif de Ventes avec KPI, changeant en temps réel  
+  - Power Query, Power Pivot, DAX, graphiques interactifs 
+
 - **Ressources Humaines (2015 – 2024)**  
   - Dashboard RH avec KPI : turnover, satisfaction, performance, ancienneté  
   - Power Query, Power Pivot, DAX, graphiques interactifs  
