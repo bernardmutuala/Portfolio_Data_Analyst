@@ -25,6 +25,10 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 
 ### 📊 Power BI  
 
+- **Challenge RH - Analyse stratégique des performances des talents**  
+  - Dashboard interactif : Visualisations des indicateurs clés et analyse détaillée par poste
+  - Observations et recommandations formulées
+    
 - **Analyse de paiement des frais académiques (Rawbank – Universités de Kinshasa)**  
   - Modélisation multidimensionnelle (Modèle en étoile)
   - 6 KPI calculés avec DAX
