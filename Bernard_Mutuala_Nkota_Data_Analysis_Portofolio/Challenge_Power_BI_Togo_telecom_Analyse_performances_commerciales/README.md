@@ -129,11 +129,6 @@ Certains produits ont un meilleur rapport coût/marge que d’autres, révélant
 
 ---
 
-## 🖼️ Aperçu du rapport Power BI
-*(Captures à insérer ici : tableaux de bord, nuage de points, KPI, cartes géographiques, etc.)*
-
----
-
 ## 🏁 Conclusion
 Cette analyse a permis d’identifier les zones géographiques les plus rentables, les produits prioritaires à renforcer, et les leviers d’optimisation commerciale pour TogoTelco.  
 L’intégration du **nuage de points (corrélation coût–marge)** a notamment offert une lecture nouvelle de la rentabilité produit.
@@ -149,3 +144,4 @@ L’intégration du **nuage de points (corrélation coût–marge)** a notamment
 - **LinkedIn** : [bernard-mutuala](https://www.linkedin.com/in/bernard-mutuala-4335632a3)  
 - **GitHub** : [bernardmutuala](https://github.com/bernardmutuala)  
 ---
+
