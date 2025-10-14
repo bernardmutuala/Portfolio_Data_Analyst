@@ -1,0 +1,19 @@
+produit_id,nom_produit,categorie,sous_categorie,cout_achat
+1,Smartphone Pro           ,Téléphonie,Smartphone,122.78
+2,Smartphone X           ,Téléphonie,Smartphone,55.56
+3,Carte SIM X            ,Téléphonie,Carte SIM,65.19
+4,Carte SIM Max          ,Téléphonie,Carte SIM,91.33
+5,Chargeur X                  ,Téléphonie,Chargeur,49.25
+6,Chargeur Pro               ,Téléphonie,Chargeur,114.55
+7,Modem Lite                  ,Internet,Modem,133.49
+8,Modem Max     ,Internet,Modem,65.29
+9,Routeur Max     ,Internet,Routeur,52.49
+10,Routeur Pro            ,Internet,Routeur,29.05
+11,Clé 4G X            ,Internet,Clé 4G,114.56
+12,Clé 4G X          ,Internet,Clé 4G,39.77
+13,Écouteurs Max            ,Accessoires,Écouteurs,103.29
+14,Écouteurs Pro              ,Accessoires,Écouteurs,120.29
+15,Power Bank Max             ,Accessoires,Power Bank,86.95
+16,Power Bank Pro              ,Accessoires,Power Bank,18.59
+17,Support téléphone Max           ,Accessoires,Support téléphone,55.78
+18,Support téléphone Lite         ,Accessoires,Support téléphone,16.81
