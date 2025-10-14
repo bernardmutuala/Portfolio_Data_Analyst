@@ -25,6 +25,10 @@ Mon objectif : démontrer mes compétences à travers des projets concrets, réa
 
 ### 📊 Power BI  
 
+- **Challenge Power BI TogoTelco - Analyse des performances commerciales**  
+  - Dashboard interactif : Visualisations des indicateurs clés et analyse détaillée par poste
+  - Observations et recommandations formulées
+
 - **Challenge RH - Analyse stratégique des performances des talents**  
   - Dashboard interactif : Visualisations des indicateurs clés et analyse détaillée par poste
   - Observations et recommandations formulées
